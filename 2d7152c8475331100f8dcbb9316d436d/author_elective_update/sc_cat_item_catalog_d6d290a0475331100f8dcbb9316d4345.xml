@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request a new To Do Project">d9ef04ec471331100f8dcbb9316d4367</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 12:19:54</sys_created_on>
+        <sys_id>d6d290a0475331100f8dcbb9316d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a new To Do Project</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d6d290a0475331100f8dcbb9316d4345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 12:19:54</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</application>
+        <file_path/>
+        <instance_id>0d0d9905db06719002d9172913961914</instance_id>
+        <instance_name>dev191725</instance_name>
+        <name>sc_cat_item_catalog_d6d290a0475331100f8dcbb9316d4345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new To Do Project">d9ef04ec471331100f8dcbb9316d4367</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-20 12:19:54</sys_created_on><sys_id>d6d290a0475331100f8dcbb9316d4345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request a new To Do Project</sys_name><sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package><sys_policy/><sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope><sys_update_name>sc_cat_item_catalog_d6d290a0475331100f8dcbb9316d4345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-20 12:19:54</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1992166182</payload_hash>
+        <record_name>Service Catalog.Request a new To Do Project</record_name>
+        <reverted_from/>
+        <source>657152c8475331100f8dcbb9316d4370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 12:19:54</sys_created_on>
+        <sys_id>56d290a0475331100f8dcbb9316d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c872b0aea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 12:19:54</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d6d290a032533110bb25eca167bc2e47</update_guid>
+        <update_guid_history>d6d290a032533110bb25eca167bc2e47:1992166182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request a new To Do Project">fd0354a0475331100f8dcbb9316d43aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 12:20:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0007df8c65b749808000010ac258e900</sys_id>
+        <sys_metadata>d6d290a0475331100f8dcbb9316d4345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a new To Do Project</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_parent display_value="Request a new To Do Project">d9ef04ec471331100f8dcbb9316d4367</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_scope_delete display_value="">9d129df5d2214f7faf42b173c6cf23d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_d6d290a0475331100f8dcbb9316d4345</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_d6d290a0475331100f8dcbb9316d4345">56d290a0475331100f8dcbb9316d4348</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 12:20:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

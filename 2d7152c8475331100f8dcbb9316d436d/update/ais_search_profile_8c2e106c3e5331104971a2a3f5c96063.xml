@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for  To Do Workspace</description>
+        <genius_result_assembly/>
+        <label>to-do-workspace Search Profile</label>
+        <name>x_1284757_to_do_mrclhcqo_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 13:09:11</sys_created_on>
+        <sys_id>8c2e106c3e5331104971a2a3f5c96063</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>to-do-workspace Search Profile</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>ais_search_profile_8c2e106c3e5331104971a2a3f5c96063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 13:09:17</sys_updated_on>
+    </ais_search_profile>
+</record_update>

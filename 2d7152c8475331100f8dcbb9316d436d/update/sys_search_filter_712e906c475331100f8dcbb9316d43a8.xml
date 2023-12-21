@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="To Do Project">b52e906c475331100f8dcbb9316d43a2</ais_search_source>
+        <label>To Do Project</label>
+        <name>To Do Project</name>
+        <order>200</order>
+        <search_context_config display_value=" To Do Workspace AI Search Configuration">8c2e106c75533110c52bbad6922fa45a</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-20 13:09:17</sys_created_on>
+        <sys_id>712e906c475331100f8dcbb9316d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Project</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sys_search_filter_712e906c475331100f8dcbb9316d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-20 13:09:17</sys_updated_on>
+    </sys_search_filter>
+</record_update>
