@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 06:28:24</sys_created_on>
+        <sys_id>17fbc0f897df31100c1af6fce053af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_17fbc0f897df31100c1af6fce053af5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 06:28:24</sys_updated_on>
+        <translated_value/>
+        <value>send_reminder</value>
+        <view_config_element display_value="send_reminder-FieldValue">57fbc0f897df31100c1af6fce053af5b</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=17fbc0f897df31100c1af6fce053af5d"/>
+</record_update>

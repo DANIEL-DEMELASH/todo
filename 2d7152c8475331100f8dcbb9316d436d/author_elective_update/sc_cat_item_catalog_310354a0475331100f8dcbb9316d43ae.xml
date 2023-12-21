@@ -41,7 +41,7 @@
         <update_guid_history>310354a03053311094e14a820f2da9b0:1992166182</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Request a new To Do Project">6dc350e0475331100f8dcbb9316d431b</sys_audit_delete>
+        <sys_audit_delete display_value="">6dc350e0475331100f8dcbb9316d431b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-20 12:23:57</sys_created_on>

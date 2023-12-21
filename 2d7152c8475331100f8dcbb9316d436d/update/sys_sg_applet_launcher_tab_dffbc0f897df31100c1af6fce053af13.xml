@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="To Do">5ffbc0f897df31100c1af6fce053af12</applet_launcher>
+        <icon display_value="Clipboard Lines">cffbc0f897df31100c1af6fce053af11</icon>
+        <label>To Do</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 06:28:24</sys_created_on>
+        <sys_id>dffbc0f897df31100c1af6fce053af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_dffbc0f897df31100c1af6fce053af13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 06:28:24</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

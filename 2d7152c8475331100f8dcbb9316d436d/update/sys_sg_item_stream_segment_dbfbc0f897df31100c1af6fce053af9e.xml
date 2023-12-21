@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Active To Dos Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Active To Dos">57fbc0f897df31100c1af6fce053af9c</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 06:28:25</sys_created_on>
+        <sys_id>dbfbc0f897df31100c1af6fce053af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active To Dos Item Stream Segment</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_dbfbc0f897df31100c1af6fce053af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 06:28:25</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

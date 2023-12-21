@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>My To Dos due_date</name>
+        <parent>bffb04f897df31100c1af6fce053afa8</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 06:28:26</sys_created_on>
+        <sys_id>3bfb04f897df31100c1af6fce053afa9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My To Dos due_date</sys_name>
+        <sys_package display_value=" To Do" source="x_1284757_to_do">2d7152c8475331100f8dcbb9316d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" To Do">2d7152c8475331100f8dcbb9316d436d</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_3bfb04f897df31100c1af6fce053afa9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 06:28:26</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

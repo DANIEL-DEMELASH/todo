@@ -41,7 +41,7 @@
         <update_guid_history>ad6498e05f5331101c3a286a0b886e91:-1782467764</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Request a new To Do Project">e4f4d024475331100f8dcbb9316d4372</sys_audit_delete>
+        <sys_audit_delete display_value="">e4f4d024475331100f8dcbb9316d4372</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-20 12:29:04</sys_created_on>
