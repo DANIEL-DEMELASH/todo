@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:todo/utils/dialog_box.dart';
 import 'package:todo/utils/todo_tile.dart';
 
 class HomePage extends StatefulWidget {
@@ -9,6 +10,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  final TextEditingController _controller = TextEditingController();
+
   List todoList = [
     [
       'Make a tutorial',
@@ -24,10 +27,29 @@ class _HomePageState extends State<HomePage> {
     ],
   ];
 
+  void addTask() {
+    setState(() {
+      todoList.add([_controller.text, false]);
+      _controller.clear();
+    });
+    Navigator.pop(context);
+  }
+
   void checkboxChanged(bool? value, int index) {
     setState(() {
       todoList[index][1] = !todoList[index][1];
     });
+  }
+
+  void createTodo() {
+    showDialog(
+        context: context,
+        builder: (context) {
+          return DialogBox(
+            controller: _controller,
+            onSave: addTask,
+          );
+        });
   }
 
   @override
@@ -38,6 +60,15 @@ class _HomePageState extends State<HomePage> {
         title: const Text('TO DO'),
         centerTitle: true,
         elevation: 0,
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: createTodo,
+        backgroundColor: Colors.yellow,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
+        child: const Icon(
+          Icons.add,
+          color: Colors.black,
+        ),
       ),
       body: ListView.builder(
         itemCount: todoList.length,
