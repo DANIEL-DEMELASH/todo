@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo/utils/my_button.dart';
 
+// ignore: must_be_immutable
 class DialogBox extends StatelessWidget {
   final TextEditingController controller;
   VoidCallback onSave;
